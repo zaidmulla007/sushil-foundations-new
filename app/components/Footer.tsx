@@ -89,6 +89,8 @@ export default function Footer() {
             <p className="text-gray-400 text-sm">
               © {new Date().getFullYear()} Sushil Foundation. All rights
               reserved.
+              <br/>
+              Desgined by Excel Graphics
             </p>
             <div className="flex items-center gap-2 text-gray-400 text-sm">
               <span>Made with</span>
